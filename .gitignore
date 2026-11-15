@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+SriLanka_FloodCatModel_POC_Report.docx
+SriLanka_FloodCatModel_POC_Report.pdf
